@@ -1,0 +1,19 @@
+{
+  "name": "react-web-app-components",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@emotion/core": "^10.0.7",
+    "react": "^16.8.3",
+    "react-error-boundary": "^1.2.3",
+    "react-helmet": "^5.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.6",
+    "@types/react-helmet": "^5.0.8",
+    "tslint": "^5.13.1",
+    "typescript": "^3.3.3333"
+  }
+}
